@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @OldPaul2000
-- 👀 I’m interested in desktop and mobile programming.
+- 👀 I’m interested in web and mobile programming.
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me: paulbatrin@yahoo.com
