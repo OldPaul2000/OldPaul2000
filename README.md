@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OldPaul2000
-- 👀 I’m interested in web and mobile programming.
-- 🌱 I’m currently learning Java.
+- 👋 Hi, I’m Paul Batrin
+- 👀 I’m interested in web(backend/frontend) and mobile development.
+- 🌱 I’m currently learning SpringBoot and JavaScript.
 - 📫 How to reach me: paulbatrin@yahoo.com
